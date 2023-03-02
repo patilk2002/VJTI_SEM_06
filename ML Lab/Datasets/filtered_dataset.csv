@@ -1,0 +1,332 @@
+,Survived,Pclass,Sex,Parch,Embarked,Age Category,Fare Category,Sibsp Category
+0,0,3,male,0,Q,Adult,General,Low
+1,1,3,female,0,S,Elderly,General,Low
+2,0,2,male,0,Q,Elderly,General,Low
+3,0,3,male,0,S,Adult,General,Low
+4,1,3,female,1,S,Young Adult,General,Low
+5,0,3,male,0,S,Teenager,General,Low
+6,1,3,female,0,Q,Adult,General,Low
+7,0,2,male,1,S,Adult,General,Low
+8,1,3,female,0,C,Teenager,General,Low
+9,0,3,male,0,S,Young Adult,General,Low
+11,0,1,male,0,S,Elderly,General,Low
+12,1,1,female,0,S,Young Adult,General,Low
+13,0,2,male,0,S,Elderly,General,Low
+14,1,1,female,0,S,Elderly,General,Low
+15,1,2,female,0,C,Young Adult,General,Low
+16,0,2,male,0,Q,Adult,General,Low
+17,0,3,male,0,C,Young Adult,General,Low
+18,1,3,female,0,S,Adult,General,Low
+19,1,3,female,0,C,Elderly,General,Low
+20,0,1,male,0,C,Elderly,General,Low
+21,0,3,male,1,S,child,General,Low
+23,0,1,male,1,C,Young Adult,General,Low
+24,1,1,female,3,C,Elderly,Second,Low
+25,0,3,male,0,S,Elderly,General,Low
+26,1,1,female,1,C,Young Adult,General,Low
+27,0,3,male,0,C,Young Adult,General,Low
+28,0,1,male,0,S,Elderly,General,Low
+30,0,2,male,0,S,Elderly,General,Low
+31,0,2,male,0,S,Young Adult,General,Low
+32,1,3,female,2,S,Adult,General,Low
+34,0,1,male,0,C,Adult,General,Low
+35,0,3,male,0,C,Young Adult,General,Low
+37,1,3,female,0,S,Young Adult,General,Low
+38,0,3,male,0,S,Young Adult,General,Low
+40,0,3,male,1,C,Adult,General,Low
+42,0,3,male,0,S,Elderly,General,Low
+43,1,2,female,0,S,Adult,General,Low
+44,1,1,female,0,S,Elderly,General,Low
+45,0,3,male,0,S,Young Adult,General,Low
+46,0,1,male,0,C,Elderly,General,Low
+48,1,1,female,0,C,Elderly,General,Low
+49,1,3,female,2,S,Adult,General,Low
+50,0,1,male,0,S,Young Adult,General,Low
+51,0,2,male,0,C,Adult,General,Low
+52,1,2,female,1,S,Young Adult,General,Low
+53,1,1,female,2,S,Adult,Second,Medium
+55,0,3,male,1,Q,child,General,Medium
+56,0,3,male,0,S,Adult,General,Low
+57,0,3,male,0,S,Young Adult,General,Low
+59,1,1,female,0,C,Adult,Second,Low
+60,0,3,male,0,S,Teenager,General,Low
+61,0,2,male,0,S,Adult,General,Low
+62,0,3,male,0,S,Teenager,General,Low
+63,1,3,female,0,Q,Young Adult,General,Low
+64,0,1,male,2,C,Teenager,Second,Low
+66,1,3,female,0,Q,Teenager,General,Low
+67,0,1,male,0,S,Elderly,General,Low
+68,0,1,male,0,C,Adult,General,Low
+69,1,1,female,4,S,Elderly,Second,Low
+70,1,3,female,0,Q,Young Adult,General,Low
+71,0,3,male,0,S,Young Adult,General,Low
+72,1,3,female,0,S,Adult,General,Low
+73,0,1,male,0,C,Adult,General,Low
+74,1,1,female,0,C,Adult,Second,Low
+75,0,1,male,0,C,Adult,Second,Low
+77,1,1,female,0,S,Elderly,General,Low
+78,0,2,male,0,S,Adult,General,Low
+79,1,3,female,0,Q,Young Adult,General,Low
+80,0,3,male,1,C,child,General,Low
+81,0,1,male,0,S,Elderly,Second,Low
+82,0,1,male,0,S,Elderly,General,Low
+86,1,3,female,0,Q,Adult,General,Low
+87,1,3,female,0,S,Teenager,General,Low
+89,0,2,male,1,S,Infant,General,Low
+90,1,3,female,0,S,Young Adult,General,Low
+92,1,1,female,2,S,Adult,General,Low
+94,0,1,male,0,C,Young Adult,General,Low
+95,0,3,male,0,S,Young Adult,General,Low
+96,1,1,female,0,S,Elderly,General,Low
+97,0,3,male,0,S,Adult,General,Low
+98,1,3,female,0,S,Young Adult,General,Low
+99,0,3,male,0,S,Adult,General,Low
+100,1,1,female,0,C,Elderly,General,Low
+101,0,2,male,0,S,Adult,General,Low
+103,0,3,male,0,S,Adult,General,Low
+104,1,3,female,1,C,Teenager,General,Low
+105,0,3,male,0,S,Adult,General,Low
+106,0,3,male,0,Q,Young Adult,General,Low
+109,0,2,male,0,S,Young Adult,General,Low
+110,0,2,male,0,C,Elderly,General,Low
+112,1,1,female,0,C,Adult,General,Low
+113,1,3,female,0,Q,Young Adult,General,Low
+114,1,1,female,0,S,Elderly,Second,Low
+115,0,3,male,0,C,Teenager,General,Low
+117,1,3,female,1,S,Infant,General,Low
+118,0,1,male,0,C,Adult,General,Low
+119,1,2,female,0,S,Adult,General,Low
+120,1,2,female,0,S,Teenager,General,Low
+122,1,1,female,0,C,Adult,General,Low
+123,0,3,male,0,S,Adult,General,Low
+125,1,3,female,1,S,Teenager,General,Low
+126,0,3,male,0,S,Young Adult,General,Low
+128,0,2,male,0,S,Elderly,General,Low
+129,0,3,male,0,S,Young Adult,General,Low
+130,0,3,male,0,S,Adult,General,Low
+131,0,1,male,0,C,Elderly,General,Low
+134,0,3,male,0,S,Elderly,General,Low
+135,0,3,male,0,S,Young Adult,General,Low
+136,0,3,male,0,C,Adult,General,Low
+137,0,2,male,0,S,Adult,General,Low
+138,1,3,female,0,S,Young Adult,General,Low
+139,0,3,male,6,S,Adult,General,Low
+140,1,3,female,2,S,child,General,High
+141,1,1,female,0,S,Adult,General,Low
+142,0,1,male,3,C,Elderly,Second,Low
+143,0,2,male,0,S,Adult,General,Low
+144,0,1,male,0,S,Elderly,General,Low
+145,0,3,male,0,S,Adult,General,Medium
+147,0,3,male,0,S,Young Adult,General,Low
+149,0,2,male,1,S,Adult,General,Low
+150,1,1,female,1,C,Young Adult,General,Low
+153,1,3,female,2,S,Adult,General,Low
+154,0,3,male,2,S,Teenager,General,Medium
+155,0,3,male,0,S,Young Adult,General,Low
+156,1,1,female,0,S,Adult,Second,Low
+157,1,3,female,0,S,Young Adult,General,Low
+158,0,1,male,0,S,Elderly,General,Low
+159,1,3,female,2,S,Adult,General,Low
+161,0,3,male,1,C,child,General,Low
+162,1,2,female,0,S,Adult,General,Low
+164,0,2,male,0,S,Elderly,General,Low
+165,1,3,female,1,S,Adult,General,Low
+166,0,1,male,0,C,Elderly,General,Low
+167,0,3,male,2,S,Teenager,General,Low
+169,1,3,female,0,S,Young Adult,General,Low
+171,0,3,male,0,C,Adult,General,Low
+172,0,3,male,0,S,Young Adult,General,Low
+174,0,3,male,5,S,Adult,General,Low
+175,1,2,female,2,S,Teenager,General,Low
+176,1,2,female,0,S,Young Adult,General,Low
+177,0,1,male,0,C,Elderly,General,Low
+178,1,2,female,3,S,Adult,General,Low
+179,1,1,female,2,C,Elderly,General,Low
+180,0,2,male,0,S,Adult,General,Low
+181,0,1,male,1,C,Adult,General,Low
+182,1,1,female,0,S,Teenager,General,Low
+184,1,1,female,1,C,Adult,Second,Low
+185,0,2,male,0,S,Adult,General,Low
+186,1,2,female,1,S,Young Adult,General,Low
+187,0,3,male,0,S,Teenager,General,Low
+189,0,2,male,0,S,Adult,General,Low
+190,0,2,male,0,S,Adult,General,Low
+192,0,3,male,1,S,Teenager,General,Low
+193,0,2,male,0,Q,Elderly,General,Low
+194,0,2,male,2,S,child,General,Low
+195,0,3,male,0,S,Adult,General,Low
+196,0,1,male,2,C,child,General,Low
+197,1,3,female,0,S,Teenager,General,Low
+198,0,2,male,0,S,Young Adult,General,Low
+201,0,3,male,2,S,Infant,General,Low
+202,0,1,male,0,C,Elderly,Second,Low
+203,1,2,female,1,S,child,General,Low
+204,0,2,male,0,S,Young Adult,General,Low
+206,1,3,female,0,Q,Adult,General,Low
+207,0,2,male,0,S,Young Adult,General,Low
+208,1,1,female,0,C,Adult,General,Low
+209,0,3,male,0,S,Young Adult,General,Low
+210,0,3,male,0,S,Adult,General,Low
+212,0,2,male,0,S,Teenager,General,Low
+213,1,2,female,0,S,Elderly,General,Low
+214,1,3,female,2,S,Adult,General,Medium
+215,0,1,male,0,S,Elderly,General,Low
+217,0,1,male,1,S,Elderly,General,Low
+218,1,1,female,1,C,Elderly,Second,Low
+220,1,2,female,0,C,Adult,General,Low
+221,0,3,male,0,S,Young Adult,General,Low
+222,1,2,female,0,S,Young Adult,General,Low
+223,0,3,male,0,S,Young Adult,General,Low
+224,1,1,female,0,C,Elderly,General,Low
+226,0,3,male,0,S,Young Adult,General,Low
+228,0,3,male,0,S,Elderly,General,Low
+229,0,2,male,0,S,Adult,General,Low
+230,0,2,male,0,S,Teenager,General,Low
+231,1,1,female,0,S,Young Adult,General,Low
+232,0,3,male,0,S,Young Adult,General,Low
+234,0,1,male,0,C,Adult,General,Low
+235,0,3,male,0,S,Young Adult,General,Low
+236,0,1,male,0,C,Elderly,General,Low
+237,0,3,male,0,C,Young Adult,General,Low
+238,1,2,female,1,S,Teenager,General,Low
+239,1,1,female,0,C,Elderly,General,Low
+240,1,1,female,0,C,Elderly,General,Low
+241,1,2,female,2,S,Elderly,General,Low
+242,0,1,male,1,C,Elderly,General,Low
+245,0,1,male,0,S,Elderly,General,Low
+246,1,2,female,0,S,Young Adult,General,Low
+247,0,2,male,1,S,Elderly,General,Low
+248,1,2,female,0,S,Adult,General,Low
+250,1,2,female,2,S,Infant,General,Low
+251,0,3,male,0,S,Young Adult,General,Low
+252,0,1,male,0,C,Adult,General,Low
+253,0,3,male,0,S,Young Adult,General,Low
+254,0,3,male,0,S,Adult,General,Low
+257,0,3,male,0,S,Adult,General,Low
+258,1,2,female,0,S,Young Adult,General,Low
+259,0,3,male,0,S,Young Adult,General,Low
+260,0,3,male,0,S,Adult,General,Low
+261,0,3,male,0,S,Young Adult,General,Low
+262,1,2,female,2,S,Adult,General,Low
+263,1,3,female,1,S,Infant,General,Low
+264,0,2,male,0,C,Adult,General,Low
+269,0,3,male,0,S,Teenager,General,Low
+270,0,1,male,0,C,Elderly,General,Low
+272,1,1,female,0,C,Adult,General,Low
+275,1,2,female,0,S,Young Adult,General,Low
+276,0,2,male,0,S,Adult,General,Low
+277,0,2,male,0,S,Adult,General,Low
+278,0,2,male,0,S,Adult,General,Low
+279,0,2,male,0,S,Young Adult,General,Low
+280,1,3,female,0,S,Young Adult,General,Low
+281,0,3,male,1,S,Infant,General,Low
+283,1,3,female,1,C,child,General,Low
+284,1,3,female,1,S,Infant,General,Low
+285,0,3,male,0,S,Adult,General,Low
+287,0,1,male,0,S,Young Adult,General,Low
+291,1,3,female,0,Q,Adult,General,Low
+293,0,1,male,1,S,Elderly,General,Low
+294,0,3,male,0,S,Adult,General,Low
+295,0,3,male,0,S,Adult,General,Low
+296,1,2,female,2,C,Infant,General,Low
+298,0,1,male,0,S,Adult,General,Low
+299,0,3,male,0,S,Adult,General,Low
+300,0,3,male,0,S,Adult,General,Low
+302,0,2,male,1,S,Elderly,General,Low
+303,0,3,male,0,S,Young Adult,General,Low
+305,1,1,female,1,S,Elderly,General,Low
+306,0,1,male,2,S,Adult,General,Low
+307,0,3,male,1,S,Infant,General,Low
+308,0,1,male,1,S,Elderly,General,Low
+309,1,3,female,0,S,Elderly,General,Low
+310,0,3,male,0,S,Teenager,General,Low
+311,0,3,male,0,C,Young Adult,General,Low
+313,1,3,female,0,Q,Adult,General,Low
+314,1,1,female,0,C,Elderly,General,Low
+315,1,3,female,0,Q,Teenager,General,Low
+316,0,1,male,0,C,Elderly,General,Low
+317,0,2,male,0,S,Young Adult,General,Low
+318,0,3,male,0,S,Adult,General,Low
+319,0,2,male,0,S,Young Adult,General,Low
+320,0,3,male,0,S,Adult,General,Low
+321,0,3,male,0,C,Young Adult,General,Low
+322,0,2,male,0,S,Adult,General,Low
+323,0,1,male,0,S,Adult,General,Low
+324,1,1,female,0,S,Adult,Second,Low
+325,0,3,male,0,S,Young Adult,General,Low
+326,1,2,female,1,S,Teenager,General,Low
+327,0,1,male,0,C,Elderly,General,Low
+328,0,2,male,0,S,Adult,General,Low
+329,0,2,male,0,S,Young Adult,General,Low
+330,1,2,female,2,S,Elderly,General,Low
+331,0,1,male,0,C,Adult,General,Low
+333,1,3,female,1,C,Young Adult,General,Low
+334,0,3,male,0,S,Adult,General,Low
+335,0,1,male,0,S,Adult,General,Low
+336,0,2,male,0,S,Adult,General,Low
+337,0,3,male,2,C,Adult,General,Low
+338,0,2,male,0,S,Young Adult,General,Low
+340,0,2,male,0,S,Teenager,General,Low
+341,0,3,male,0,S,Adult,General,Low
+343,1,1,female,1,C,Elderly,First,Low
+345,1,3,female,0,S,Teenager,General,Low
+346,0,2,male,0,S,Adult,General,Low
+347,1,3,female,0,C,Adult,General,Low
+348,0,2,male,0,S,Young Adult,General,Low
+349,1,2,female,0,S,Adult,General,Low
+350,1,1,female,1,C,Elderly,General,Low
+351,0,2,male,0,S,Young Adult,General,Low
+352,0,2,male,0,S,Teenager,General,Low
+353,0,2,male,2,S,Elderly,General,Low
+354,1,3,female,2,S,Infant,General,Low
+355,0,1,male,0,S,Elderly,General,Low
+356,1,1,female,0,S,Elderly,General,Low
+359,1,3,female,0,S,Adult,General,Low
+360,0,3,male,2,S,Teenager,General,High
+361,1,2,female,1,C,Young Adult,General,Low
+362,1,2,female,0,S,Adult,General,Low
+363,0,3,male,0,S,Adult,General,Low
+364,1,1,female,0,C,Young Adult,General,Low
+367,1,3,female,0,S,Young Adult,General,Low
+368,1,1,female,1,C,Elderly,General,Low
+369,0,2,male,0,C,Adult,General,Low
+370,0,2,male,0,S,Young Adult,General,Low
+371,1,1,female,0,C,Adult,General,Low
+372,0,1,male,0,S,Elderly,,Low
+373,0,2,male,0,S,Elderly,General,Low
+374,1,1,female,1,S,Elderly,General,Low
+375,1,1,female,0,C,Elderly,Second,Low
+376,1,3,female,0,S,Young Adult,General,Low
+377,0,2,male,0,S,Young Adult,General,Low
+378,0,1,male,0,S,Elderly,General,Low
+379,0,3,male,2,S,Infant,General,Medium
+381,0,3,male,0,Q,Adult,General,Low
+383,1,3,female,0,S,Young Adult,General,Low
+385,1,2,female,2,S,Young Adult,General,Low
+386,0,3,male,0,S,Young Adult,General,Low
+387,0,2,male,0,S,Elderly,General,Low
+388,0,3,male,0,Q,Young Adult,General,Low
+389,0,3,male,1,S,child,General,Medium
+390,0,1,male,0,S,Young Adult,General,Low
+391,1,1,female,1,S,Elderly,General,Low
+392,0,3,male,2,S,Teenager,General,Low
+393,0,2,male,0,S,Elderly,General,Low
+394,0,3,male,1,S,Adult,General,Medium
+395,1,1,female,0,S,Teenager,General,Low
+396,0,3,male,0,Q,Young Adult,General,Low
+397,1,1,female,1,C,Elderly,General,Low
+398,0,3,male,0,S,Young Adult,General,Low
+399,0,3,male,0,Q,Adult,General,Low
+400,1,1,female,0,S,Adult,General,Low
+401,0,2,male,0,S,Adult,General,Low
+402,1,1,female,1,C,Young Adult,General,Low
+403,0,1,male,0,S,Teenager,General,Low
+404,0,1,male,0,C,Elderly,General,Low
+405,0,2,male,0,C,Young Adult,General,Low
+406,0,2,male,0,S,Young Adult,General,Low
+407,0,1,male,1,C,Elderly,Second,Low
+409,1,3,female,1,S,Infant,General,Low
+411,1,1,female,0,Q,Adult,General,Low
+412,1,3,female,0,S,Adult,General,Low
+414,1,1,female,0,C,Adult,General,Low
+415,0,3,male,0,S,Adult,General,Low

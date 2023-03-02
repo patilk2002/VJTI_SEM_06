@@ -1,0 +1,332 @@
+,Survived,Pclass,Sex,Parch,Ticket,Embarked,Age Category,Fare Category,Sibsp Category
+0,0,3,male,0,330911,Q,Adult,General,Low
+1,1,3,female,0,363272,S,Elderly,General,Low
+2,0,2,male,0,240276,Q,Elderly,General,Low
+3,0,3,male,0,315154,S,Adult,General,Low
+4,1,3,female,1,3101298,S,Young Adult,General,Low
+5,0,3,male,0,7538,S,Teenager,General,Low
+6,1,3,female,0,330972,Q,Adult,General,Low
+7,0,2,male,1,248738,S,Adult,General,Low
+8,1,3,female,0,2657,C,Teenager,General,Low
+9,0,3,male,0,A/4 48871,S,Young Adult,General,Low
+11,0,1,male,0,694,S,Elderly,General,Low
+12,1,1,female,0,21228,S,Young Adult,General,Low
+13,0,2,male,0,24065,S,Elderly,General,Low
+14,1,1,female,0,W.E.P. 5734,S,Elderly,General,Low
+15,1,2,female,0,SC/PARIS 2167,C,Young Adult,General,Low
+16,0,2,male,0,233734,Q,Adult,General,Low
+17,0,3,male,0,2692,C,Young Adult,General,Low
+18,1,3,female,0,STON/O2. 3101270,S,Adult,General,Low
+19,1,3,female,0,2696,C,Elderly,General,Low
+20,0,1,male,0,PC 17603,C,Elderly,General,Low
+21,0,3,male,1,C 17368,S,child,General,Low
+23,0,1,male,1,PC 17597,C,Young Adult,General,Low
+24,1,1,female,3,PC 17608,C,Elderly,Second,Low
+25,0,3,male,0,A/5. 3337,S,Elderly,General,Low
+26,1,1,female,1,113509,C,Young Adult,General,Low
+27,0,3,male,0,2698,C,Young Adult,General,Low
+28,0,1,male,0,113054,S,Elderly,General,Low
+30,0,2,male,0,SC/AH 3085,S,Elderly,General,Low
+31,0,2,male,0,C.A. 31029,S,Young Adult,General,Low
+32,1,3,female,2,C.A. 2315,S,Adult,General,Low
+34,0,1,male,0,13236,C,Adult,General,Low
+35,0,3,male,0,2682,C,Young Adult,General,Low
+37,1,3,female,0,315087,S,Young Adult,General,Low
+38,0,3,male,0,345768,S,Young Adult,General,Low
+40,0,3,male,1,349256,C,Adult,General,Low
+42,0,3,male,0,SOTON/O.Q. 3101263,S,Elderly,General,Low
+43,1,2,female,0,237249,S,Adult,General,Low
+44,1,1,female,0,11753,S,Elderly,General,Low
+45,0,3,male,0,STON/O 2. 3101291,S,Young Adult,General,Low
+46,0,1,male,0,PC 17594,C,Elderly,General,Low
+48,1,1,female,0,11813,C,Elderly,General,Low
+49,1,3,female,2,C.A. 37671,S,Adult,General,Low
+50,0,1,male,0,13695,S,Young Adult,General,Low
+51,0,2,male,0,SC/PARIS 2168,C,Adult,General,Low
+52,1,2,female,1,29105,S,Young Adult,General,Low
+53,1,1,female,2,19950,S,Adult,Second,Medium
+55,0,3,male,1,382652,Q,child,General,Medium
+56,0,3,male,0,349230,S,Adult,General,Low
+57,0,3,male,0,348122,S,Young Adult,General,Low
+59,1,1,female,0,PC 17608,C,Adult,Second,Low
+60,0,3,male,0,349232,S,Teenager,General,Low
+61,0,2,male,0,237216,S,Adult,General,Low
+62,0,3,male,0,347090,S,Teenager,General,Low
+63,1,3,female,0,334914,Q,Young Adult,General,Low
+64,0,1,male,2,PC 17608,C,Teenager,Second,Low
+66,1,3,female,0,330963,Q,Teenager,General,Low
+67,0,1,male,0,113796,S,Elderly,General,Low
+68,0,1,male,0,2543,C,Adult,General,Low
+69,1,1,female,4,19950,S,Elderly,Second,Low
+70,1,3,female,0,382653,Q,Young Adult,General,Low
+71,0,3,male,0,349211,S,Young Adult,General,Low
+72,1,3,female,0,3101297,S,Adult,General,Low
+73,0,1,male,0,PC 17562,C,Adult,General,Low
+74,1,1,female,0,113503,C,Adult,Second,Low
+75,0,1,male,0,113503,C,Adult,Second,Low
+77,1,1,female,0,11770,S,Elderly,General,Low
+78,0,2,male,0,248744,S,Adult,General,Low
+79,1,3,female,0,368702,Q,Young Adult,General,Low
+80,0,3,male,1,2678,C,child,General,Low
+81,0,1,male,0,PC 17483,S,Elderly,Second,Low
+82,0,1,male,0,19924,S,Elderly,General,Low
+86,1,3,female,0,330844,Q,Adult,General,Low
+87,1,3,female,0,A/4 31416,S,Teenager,General,Low
+89,0,2,male,1,29103,S,Infant,General,Low
+90,1,3,female,0,347072,S,Young Adult,General,Low
+92,1,1,female,2,F.C. 12750,S,Adult,General,Low
+94,0,1,male,0,13905,C,Young Adult,General,Low
+95,0,3,male,0,350033,S,Young Adult,General,Low
+96,1,1,female,0,19877,S,Elderly,General,Low
+97,0,3,male,0,STON/O 2. 3101268,S,Adult,General,Low
+98,1,3,female,0,347471,S,Young Adult,General,Low
+99,0,3,male,0,A./5. 3338,S,Adult,General,Low
+100,1,1,female,0,11778,C,Elderly,General,Low
+101,0,2,male,0,228414,S,Adult,General,Low
+103,0,3,male,0,347070,S,Adult,General,Low
+104,1,3,female,1,2625,C,Teenager,General,Low
+105,0,3,male,0,C 4001,S,Adult,General,Low
+106,0,3,male,0,330920,Q,Young Adult,General,Low
+109,0,2,male,0,248734,S,Young Adult,General,Low
+110,0,2,male,0,237734,C,Elderly,General,Low
+112,1,1,female,0,PC 17531,C,Adult,General,Low
+113,1,3,female,0,329944,Q,Young Adult,General,Low
+114,1,1,female,0,PC 17483,S,Elderly,Second,Low
+115,0,3,male,0,2680,C,Teenager,General,Low
+117,1,3,female,1,PP 9549,S,Infant,General,Low
+118,0,1,male,0,13050,C,Adult,General,Low
+119,1,2,female,0,SC/AH 29037,S,Adult,General,Low
+120,1,2,female,0,C.A. 33595,S,Teenager,General,Low
+122,1,1,female,0,13236,C,Adult,General,Low
+123,0,3,male,0,392095,S,Adult,General,Low
+125,1,3,female,1,371362,S,Teenager,General,Low
+126,0,3,male,0,350045,S,Young Adult,General,Low
+128,0,2,male,0,211535,S,Elderly,General,Low
+129,0,3,male,0,342441,S,Young Adult,General,Low
+130,0,3,male,0,STON/OQ. 369943,S,Adult,General,Low
+131,0,1,male,0,113780,C,Elderly,General,Low
+134,0,3,male,0,349226,S,Elderly,General,Low
+135,0,3,male,0,350409,S,Young Adult,General,Low
+136,0,3,male,0,2656,C,Adult,General,Low
+137,0,2,male,0,248659,S,Adult,General,Low
+138,1,3,female,0,SOTON/OQ 392083,S,Young Adult,General,Low
+139,0,3,male,6,CA 2144,S,Adult,General,Low
+140,1,3,female,2,CA 2144,S,child,General,High
+141,1,1,female,0,113781,S,Adult,General,Low
+142,0,1,male,3,PC 17608,C,Elderly,Second,Low
+143,0,2,male,0,244358,S,Adult,General,Low
+144,0,1,male,0,17475,S,Elderly,General,Low
+145,0,3,male,0,345763,S,Adult,General,Medium
+147,0,3,male,0,SC/A4 23568,S,Young Adult,General,Low
+149,0,2,male,1,250651,S,Adult,General,Low
+150,1,1,female,1,11767,C,Young Adult,General,Low
+153,1,3,female,2,350405,S,Adult,General,Low
+154,0,3,male,2,347077,S,Teenager,General,Medium
+155,0,3,male,0,S.O./P.P. 752,S,Young Adult,General,Low
+156,1,1,female,0,PC 17483,S,Adult,Second,Low
+157,1,3,female,0,347469,S,Young Adult,General,Low
+158,0,1,male,0,110489,S,Elderly,General,Low
+159,1,3,female,2,SOTON/O.Q. 3101315,S,Adult,General,Low
+161,0,3,male,1,2650,C,child,General,Low
+162,1,2,female,0,220844,S,Adult,General,Low
+164,0,2,male,0,237393,S,Elderly,General,Low
+165,1,3,female,1,315153,S,Adult,General,Low
+166,0,1,male,0,PC 17591,C,Elderly,General,Low
+167,0,3,male,2,W./C. 6608,S,Teenager,General,Low
+169,1,3,female,0,7548,S,Young Adult,General,Low
+171,0,3,male,0,2670,C,Adult,General,Low
+172,0,3,male,0,347072,S,Young Adult,General,Low
+174,0,3,male,5,347077,S,Adult,General,Low
+175,1,2,female,2,29750,S,Teenager,General,Low
+176,1,2,female,0,C.A. 33112,S,Young Adult,General,Low
+177,0,1,male,0,11778,C,Elderly,General,Low
+178,1,2,female,3,230136,S,Adult,General,Low
+179,1,1,female,2,PC 17756,C,Elderly,General,Low
+180,0,2,male,0,233478,S,Adult,General,Low
+181,0,1,male,1,PC 17756,C,Adult,General,Low
+182,1,1,female,0,113773,S,Teenager,General,Low
+184,1,1,female,1,PC 17558,C,Adult,Second,Low
+185,0,2,male,0,239059,S,Adult,General,Low
+186,1,2,female,1,S.O./P.P. 2,S,Young Adult,General,Low
+187,0,3,male,0,A/4 48873,S,Teenager,General,Low
+189,0,2,male,0,28221,S,Adult,General,Low
+190,0,2,male,0,226875,S,Adult,General,Low
+192,0,3,male,1,A/5. 851,S,Teenager,General,Low
+193,0,2,male,0,235509,Q,Elderly,General,Low
+194,0,2,male,2,28220,S,child,General,Low
+195,0,3,male,0,347465,S,Adult,General,Low
+196,0,1,male,2,16966,C,child,General,Low
+197,1,3,female,0,347066,S,Teenager,General,Low
+198,0,2,male,0,C.A. 31030,S,Young Adult,General,Low
+201,0,3,male,2,347080,S,Infant,General,Low
+202,0,1,male,0,PC 17757,C,Elderly,Second,Low
+203,1,2,female,1,26360,S,child,General,Low
+204,0,2,male,0,C.A. 34050,S,Young Adult,General,Low
+206,1,3,female,0,9232,Q,Adult,General,Low
+207,0,2,male,0,28034,S,Young Adult,General,Low
+208,1,1,female,0,PC 17613,C,Adult,General,Low
+209,0,3,male,0,349250,S,Young Adult,General,Low
+210,0,3,male,0,C 4001,S,Adult,General,Low
+212,0,2,male,0,S.O.C. 14879,S,Teenager,General,Low
+213,1,2,female,0,24065,S,Elderly,General,Low
+214,1,3,female,2,347091,S,Adult,General,Medium
+215,0,1,male,0,113038,S,Elderly,General,Low
+217,0,1,male,1,36928,S,Elderly,General,Low
+218,1,1,female,1,113503,C,Elderly,Second,Low
+220,1,2,female,0,SC/PARIS 2148,C,Adult,General,Low
+221,0,3,male,0,342684,S,Young Adult,General,Low
+222,1,2,female,0,W./C. 14266,S,Young Adult,General,Low
+223,0,3,male,0,350053,S,Young Adult,General,Low
+224,1,1,female,0,PC 17606,C,Elderly,General,Low
+226,0,3,male,0,350054,S,Young Adult,General,Low
+228,0,3,male,0,C.A. 6212,S,Elderly,General,Low
+229,0,2,male,0,242963,S,Adult,General,Low
+230,0,2,male,0,220845,S,Teenager,General,Low
+231,1,1,female,0,113795,S,Young Adult,General,Low
+232,0,3,male,0,3101266,S,Young Adult,General,Low
+234,0,1,male,0,PC 17599,C,Adult,General,Low
+235,0,3,male,0,350416,S,Young Adult,General,Low
+236,0,1,male,0,110813,C,Elderly,General,Low
+237,0,3,male,0,2679,C,Young Adult,General,Low
+238,1,2,female,1,250650,S,Teenager,General,Low
+239,1,1,female,0,PC 17761,C,Elderly,General,Low
+240,1,1,female,0,112377,C,Elderly,General,Low
+241,1,2,female,2,237789,S,Elderly,General,Low
+242,0,1,male,1,16966,C,Elderly,General,Low
+245,0,1,male,0,17464,S,Elderly,General,Low
+246,1,2,female,0,F.C.C. 13534,S,Young Adult,General,Low
+247,0,2,male,1,28220,S,Elderly,General,Low
+248,1,2,female,0,26707,S,Adult,General,Low
+250,1,2,female,2,C.A. 34651,S,Infant,General,Low
+251,0,3,male,0,SOTON/O2 3101284,S,Young Adult,General,Low
+252,0,1,male,0,13508,C,Adult,General,Low
+253,0,3,male,0,7266,S,Young Adult,General,Low
+254,0,3,male,0,345775,S,Adult,General,Low
+257,0,3,male,0,363611,S,Adult,General,Low
+258,1,2,female,0,28404,S,Young Adult,General,Low
+259,0,3,male,0,345501,S,Young Adult,General,Low
+260,0,3,male,0,345572,S,Adult,General,Low
+261,0,3,male,0,350410,S,Young Adult,General,Low
+262,1,2,female,2,29103,S,Adult,General,Low
+263,1,3,female,1,350405,S,Infant,General,Low
+264,0,2,male,0,C.A. 34644,C,Adult,General,Low
+269,0,3,male,0,315095,S,Teenager,General,Low
+270,0,1,male,0,13050,C,Elderly,General,Low
+272,1,1,female,0,13508,C,Adult,General,Low
+275,1,2,female,0,236853,S,Young Adult,General,Low
+276,0,2,male,0,SC 14888,S,Adult,General,Low
+277,0,2,male,0,2926,S,Adult,General,Low
+278,0,2,male,0,CA 31352,S,Adult,General,Low
+279,0,2,male,0,W./C. 14260,S,Young Adult,General,Low
+280,1,3,female,0,315085,S,Young Adult,General,Low
+281,0,3,male,1,SOTON/O.Q. 3101315,S,Infant,General,Low
+283,1,3,female,1,2650,C,child,General,Low
+284,1,3,female,1,370129,S,Infant,General,Low
+285,0,3,male,0,A/5 21175,S,Adult,General,Low
+287,0,1,male,0,21228,S,Young Adult,General,Low
+291,1,3,female,0,382650,Q,Adult,General,Low
+293,0,1,male,1,33638,S,Elderly,General,Low
+294,0,3,male,0,345771,S,Adult,General,Low
+295,0,3,male,0,349202,S,Adult,General,Low
+296,1,2,female,2,SC/Paris 2123,C,Infant,General,Low
+298,0,1,male,0,113801,S,Adult,General,Low
+299,0,3,male,0,347467,S,Adult,General,Low
+300,0,3,male,0,347079,S,Adult,General,Low
+302,0,2,male,1,S.O./P.P. 2,S,Elderly,General,Low
+303,0,3,male,0,315092,S,Young Adult,General,Low
+305,1,1,female,1,112901,S,Elderly,General,Low
+306,0,1,male,2,113781,S,Adult,General,Low
+307,0,3,male,1,392091,S,Infant,General,Low
+308,0,1,male,1,12749,S,Elderly,General,Low
+309,1,3,female,0,350026,S,Elderly,General,Low
+310,0,3,male,0,315091,S,Teenager,General,Low
+311,0,3,male,0,2658,C,Young Adult,General,Low
+313,1,3,female,0,368364,Q,Adult,General,Low
+314,1,1,female,0,PC 17760,C,Elderly,General,Low
+315,1,3,female,0,AQ/3. 30631,Q,Teenager,General,Low
+316,0,1,male,0,PC 17569,C,Elderly,General,Low
+317,0,2,male,0,28004,S,Young Adult,General,Low
+318,0,3,male,0,350408,S,Adult,General,Low
+319,0,2,male,0,C.A. 31029,S,Young Adult,General,Low
+320,0,3,male,0,347075,S,Adult,General,Low
+321,0,3,male,0,2654,C,Young Adult,General,Low
+322,0,2,male,0,244368,S,Adult,General,Low
+323,0,1,male,0,113790,S,Adult,General,Low
+324,1,1,female,0,24160,S,Adult,Second,Low
+325,0,3,male,0,SOTON/O.Q. 3101309,S,Young Adult,General,Low
+326,1,2,female,1,230136,S,Teenager,General,Low
+327,0,1,male,0,PC 17585,C,Elderly,General,Low
+328,0,2,male,0,2003,S,Adult,General,Low
+329,0,2,male,0,236854,S,Young Adult,General,Low
+330,1,2,female,2,C.A. 33112,S,Elderly,General,Low
+331,0,1,male,0,PC 17580,C,Adult,General,Low
+333,1,3,female,1,2653,C,Young Adult,General,Low
+334,0,3,male,0,349229,S,Adult,General,Low
+335,0,1,male,0,110469,S,Adult,General,Low
+336,0,2,male,0,244360,S,Adult,General,Low
+337,0,3,male,2,2675,C,Adult,General,Low
+338,0,2,male,0,C.A. 31029,S,Young Adult,General,Low
+340,0,2,male,0,C.A. 15185,S,Teenager,General,Low
+341,0,3,male,0,350403,S,Adult,General,Low
+343,1,1,female,1,PC 17755,C,Elderly,First,Low
+345,1,3,female,0,348125,S,Teenager,General,Low
+346,0,2,male,0,237670,S,Adult,General,Low
+347,1,3,female,0,2688,C,Adult,General,Low
+348,0,2,male,0,248726,S,Young Adult,General,Low
+349,1,2,female,0,F.C.C. 13528,S,Adult,General,Low
+350,1,1,female,1,PC 17759,C,Elderly,General,Low
+351,0,2,male,0,F.C.C. 13540,S,Young Adult,General,Low
+352,0,2,male,0,S.O.C. 14879,S,Teenager,General,Low
+353,0,2,male,2,220845,S,Elderly,General,Low
+354,1,3,female,2,C.A. 2315,S,Infant,General,Low
+355,0,1,male,0,113044,S,Elderly,General,Low
+356,1,1,female,0,11769,S,Elderly,General,Low
+359,1,3,female,0,349910,S,Adult,General,Low
+360,0,3,male,2,CA. 2343,S,Teenager,General,High
+361,1,2,female,1,S.C./PARIS 2079,C,Young Adult,General,Low
+362,1,2,female,0,CA 31352,S,Adult,General,Low
+363,0,3,male,0,315083,S,Adult,General,Low
+364,1,1,female,0,11765,C,Young Adult,General,Low
+367,1,3,female,0,3101295,S,Young Adult,General,Low
+368,1,1,female,1,112378,C,Elderly,General,Low
+369,0,2,male,0,SC/PARIS 2147,C,Adult,General,Low
+370,0,2,male,0,28133,S,Young Adult,General,Low
+371,1,1,female,0,16966,C,Adult,General,Low
+372,0,1,male,0,112058,S,Elderly,,Low
+373,0,2,male,0,248746,S,Elderly,General,Low
+374,1,1,female,1,33638,S,Elderly,General,Low
+375,1,1,female,0,PC 17608,C,Elderly,Second,Low
+376,1,3,female,0,315152,S,Young Adult,General,Low
+377,0,2,male,0,29107,S,Young Adult,General,Low
+378,0,1,male,0,680,S,Elderly,General,Low
+379,0,3,male,2,347077,S,Infant,General,Medium
+381,0,3,male,0,330910,Q,Adult,General,Low
+383,1,3,female,0,376566,S,Young Adult,General,Low
+385,1,2,female,2,220845,S,Young Adult,General,Low
+386,0,3,male,0,349911,S,Young Adult,General,Low
+387,0,2,male,0,244346,S,Elderly,General,Low
+388,0,3,male,0,364858,Q,Young Adult,General,Low
+389,0,3,male,1,349909,S,child,General,Medium
+390,0,1,male,0,12749,S,Young Adult,General,Low
+391,1,1,female,1,PC 17592,S,Elderly,General,Low
+392,0,3,male,2,C.A. 2673,S,Teenager,General,Low
+393,0,2,male,0,C.A. 30769,S,Elderly,General,Low
+394,0,3,male,1,315153,S,Adult,General,Medium
+395,1,1,female,0,13695,S,Teenager,General,Low
+396,0,3,male,0,371109,Q,Young Adult,General,Low
+397,1,1,female,1,13567,C,Elderly,General,Low
+398,0,3,male,0,347065,S,Young Adult,General,Low
+399,0,3,male,0,21332,Q,Adult,General,Low
+400,1,1,female,0,36928,S,Adult,General,Low
+401,0,2,male,0,28664,S,Adult,General,Low
+402,1,1,female,1,112378,C,Young Adult,General,Low
+403,0,1,male,0,113059,S,Teenager,General,Low
+404,0,1,male,0,17765,C,Elderly,General,Low
+405,0,2,male,0,SC/PARIS 2166,C,Young Adult,General,Low
+406,0,2,male,0,28666,S,Young Adult,General,Low
+407,0,1,male,1,113503,C,Elderly,Second,Low
+409,1,3,female,1,SOTON/O.Q. 3101315,S,Infant,General,Low
+411,1,1,female,0,19928,Q,Adult,General,Low
+412,1,3,female,0,347086,S,Adult,General,Low
+414,1,1,female,0,PC 17758,C,Adult,General,Low
+415,0,3,male,0,SOTON/O.Q. 3101262,S,Adult,General,Low
